@@ -21,7 +21,8 @@ Install with your package manager, for Ubuntu use
 
     vagrant up | destroy | provision 
     vagrant ssh
-    
+    vagrant global-status 
+
     
     
 
