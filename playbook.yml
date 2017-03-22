@@ -1,0 +1,9 @@
+##
+# Ansible playbook
+#
+
+- hosts: all
+  become: yes
+  roles:
+    - base
+
